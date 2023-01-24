@@ -1,0 +1,94 @@
+body {
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+
+/* div{
+    background-color: blue;
+} */
+
+.subitittle {
+  font-size: 1.5rem;
+  font-weight: normal;
+  margin-bottom: 20px;
+  color: #509494;
+}
+
+.top-container {
+  position: relative;
+  margin: 0px;
+  background-color: rgb(230, 245, 245);
+}
+
+.middle-container{
+    margin-top: 20px;
+}
+.skill-row{
+    width: 70%;
+    margin: 100px auto 100px;
+    text-align: left;
+    line-height: 2;
+}
+
+h1 {
+  font-size: 3rem;
+  width: 50%;
+  margin: 50px auto 10px auto;
+  font-family: "Kalam", cursive;
+  color: #61b3b3;
+}
+
+h2{
+    color: #509494;
+}
+
+h3{
+    color: #509494; 
+}
+
+
+.top-cloud {
+  margin-top: 50px;
+  margin-left: 50%;
+}
+
+.bottom-cloud {
+  position: absolute;
+  margin-left: -10%;
+}
+
+.imagem-educacao{
+    width: 20%;
+    float: left;
+    margin-right: 30px;
+
+}
+
+.imagem-experiencias{
+    width: 20%;
+    float: left;
+    margin-right: 30px;
+}
+
+.imagem-skills{
+    width: 20%;
+    float: left;
+    margin-right: 30px;
+}
+
+.biografia{
+    width: 70%;
+    margin: auto auto auto auto;
+    text-align: left;
+    margin-bottom: 40px;
+}
+
+.contato{
+  width: 70%;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: left;
+ }
